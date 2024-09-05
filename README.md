@@ -8,12 +8,8 @@ The **General Signal Generator** is a MATLAB-based application developed to allo
 - **University**: University of Alexandria
 - **Course Code**: EEC 271
 - **Date**: Spring 2024
-- **Contributors**: 
-  - Yehia Said Gewily
-  - Yahya Emad El-Deen El-Kony
-  - Ahmed Saeed Muhammed
-  - Muhammed Ibrahim Risk
-
+- **Author**: Yehia Said Gewily
+  
 ---
 
 ## Features
